@@ -288,7 +288,6 @@ class _CalculadoraState extends State<Calculadora> {
               ),
             ],
           ),
-          Text('Coluna 6')
         ],
       ),
     );
